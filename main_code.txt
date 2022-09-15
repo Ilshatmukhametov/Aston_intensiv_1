@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Some code in this file
+=======
+Some code in this file
+
+1111
+>>>>>>> develop
